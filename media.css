@@ -1,0 +1,24 @@
+
+@media only screen and (max-width: 1024px ) {
+    body{
+        background-image: url("Images/workspace-with-office-supplies-top-view.jpg");
+        background-size:auto;
+        /* background-position: center; */
+        background-repeat: no-repeat;
+    }
+    .inp-box-enter{
+        height: 15vh;
+        width: 90vw;
+    }   
+    .app-name{
+        display: none;
+    }
+    .enter-todo{
+    padding: 8px 10px;
+
+    }
+    .result-area{
+        width: 80vw
+    }
+}
+
